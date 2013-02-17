@@ -1,4 +1,4 @@
-=== Maven SNAPSHOT Repository Proxy Server ===
+### Maven SNAPSHOT Repository Proxy Server
 
 This project is a -very- simple proxy server for Maven repositories for use with
 applications that don't know how to handle timestamped SNAPSHOT releases.
